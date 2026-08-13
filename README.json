@@ -1,0 +1,574 @@
+{
+  "items": [
+    {
+      "description": "Models that take image data as input and output useful information about the image.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PoseEstimation - Estimating human pose from a picture for mobile. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-24T22:29:10Z",
+            "owner": "edvardHua",
+            "repo": "PoseEstimationForMobile",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO - Recognize what the objects are inside a given image and where they are in the image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-11-19T20:19:55Z",
+            "owner": "hollance",
+            "repo": "YOLO-CoreML-MPSNNGraph",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileNet - Detects the dominant objects present in an image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-09-22T16:38:15Z",
+            "owner": "hollance",
+            "repo": "MobileNet-CoreML",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Places CNN - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-09-22T16:38:15Z",
+            "owner": "hollance",
+            "repo": "MobileNet-CoreML",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageSegmentation - Segment the pixels of a camera frame or image into a predefined set of classes. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-03-27T11:51:25Z",
+            "owner": "tucan9389",
+            "repo": "SemanticSegmentation-CoreML",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgeNet - Predict a person's age from one's portrait. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-08T22:23:48Z",
+            "owner": "cocoa-ai",
+            "repo": "FacesVisionDemo",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenderNet - Predict a person's gender from one's portrait. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-08T22:23:48Z",
+            "owner": "cocoa-ai",
+            "repo": "FacesVisionDemo",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmotionNet - Predict a person's emotion from one's portrait. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-08T22:23:48Z",
+            "owner": "cocoa-ai",
+            "repo": "FacesVisionDemo",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inception v3 - Detects the dominant objects present in an image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-08-09T15:07:27Z",
+            "owner": "yulingtianxia",
+            "repo": "Core-ML-Sample",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Car Recognition - Predict the brand & model of a car. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-05-22T06:36:55Z",
+            "owner": "likedan",
+            "repo": "Core-ML-Car-Recognition",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Food101 - Predict the type of foods from images. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-02-15T17:12:28Z",
+            "owner": "ph1ps",
+            "repo": "Food101-CoreML",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DepthPrediction - Predict the depth from a single image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-06-15T14:32:24Z",
+            "owner": "tucan9389",
+            "repo": "DepthPrediction-CoreML",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nudity - Classifies an image either as NSFW (nude) or SFW (not nude) Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2018-02-15T17:44:51Z",
+            "owner": "ph1ps",
+            "repo": "Nudity-CoreML",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxford102 - Detect the type of flowers from images. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-24T15:02:12Z",
+            "owner": "cocoa-ai",
+            "repo": "FlowersVisionDemo",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextRecognition (ML Kit) - Recognizing text using ML Kit built-in model in real-time. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-06-25T02:04:52Z",
+            "owner": "tucan9389",
+            "repo": "TextRecognition-MLKit",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextDetection - Detecting text using Vision built-in model in real-time. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-02-20T20:05:53Z",
+            "owner": "tucan9389",
+            "repo": "TextDetection-CoreML",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoAssessment - Photo Assessment using Core ML and Metal. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2020-12-28T06:34:25Z",
+            "owner": "yulingtianxia",
+            "repo": "PhotoAssessment",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MNIST - Predict handwritten (drawn) digits from images. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-02-15T17:37:35Z",
+            "owner": "ph1ps",
+            "repo": "MNIST-CoreML",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RN1015k500 - Predict the location where a picture was taken. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2017-09-08T22:01:08Z",
+            "owner": "awslabs",
+            "repo": "MXNet2CoreML_iOS_sample_app",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlickrStyle - Detect the artistic style of images. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-08T22:24:57Z",
+            "owner": "cocoa-ai",
+            "repo": "StylesVisionDemo",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResNet50 - Detects the dominant objects present in an image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-07-20T14:23:35Z",
+            "owner": "ytakzk",
+            "repo": "CoreML-samples",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VGG16 - Detects the dominant objects present in an image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-23T02:54:05Z",
+            "owner": "alephao",
+            "repo": "CoreMLExample",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentimentVision - Predict positive or negative sentiments from images. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-10-08T22:22:03Z",
+            "owner": "cocoa-ai",
+            "repo": "SentimentVisionDemo",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Image - Metadata/Text"
+    },
+    {
+      "description": "Models that transform images.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AnimeScale2x - Process a bicubic-scaled anime-style artwork Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-12-14T10:25:23Z",
+            "owner": "imxieyi",
+            "repo": "waifu2x-ios",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HED - Detect nested edges from a color image. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-07-03T12:58:38Z",
+            "owner": "s1ddok",
+            "repo": "HED-CoreML",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Image - Image"
+    },
+    {
+      "description": "Models that process text data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BERT for Question answering - Swift Core ML 3 implementation of BERT for Question answering Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-11-24T19:48:07Z",
+            "owner": "huggingface",
+            "repo": "swift-coreml-transformers",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-2 - OpenAI GPT-2 Text generation (Core ML 3) Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-11-24T19:48:07Z",
+            "owner": "huggingface",
+            "repo": "swift-coreml-transformers",
+            "stars": 1682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentiment Polarity - Predict positive or negative sentiments from sentences. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-10-07T18:53:06Z",
+            "owner": "cocoa-ai",
+            "repo": "SentimentCoreMLDemo",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocumentClassification - Classify news articles into 1 of 5 categories. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-04-20T18:09:39Z",
+            "owner": "toddkramer",
+            "repo": "DocumentClassifier",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iMessage Spam Detection - Detect whether a message is spam. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-29T04:28:46Z",
+            "owner": "gkswamy98",
+            "repo": "imessage-spam-detection",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NamesDT - Gender Classification using DecisionTreeClassifier Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-10-07T18:58:07Z",
+            "owner": "cocoa-ai",
+            "repo": "NamesCoreMLDemo",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personality Detection - Predict personality based on user documents (sentences). Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-01-14T23:26:11Z",
+            "owner": "novinfard",
+            "repo": "profiler-sentiment-analysis",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Text - Metadata/Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GestureAI - Recommend an artist based on given location and genre. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-02-26T17:56:03Z",
+            "owner": "akimach",
+            "repo": "GestureAI-CoreML-iOS",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exermote - Predicts the exercise, when iPhone is worn on right upper arm. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-05-14T11:08:22Z",
+            "owner": "Lausbert",
+            "repo": "Exermote",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artists Recommendation - Recommend an artist based on given location and genre. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-31T11:08:07Z",
+            "owner": "agnosticdev",
+            "repo": "Blog-Examples",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChordSuggester - Predicts the most likely next chord based on the entered Chord Progression. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-07-30T16:44:39Z",
+            "owner": "carlosmbe",
+            "repo": "Mac-CoreML-Chord-Suggester",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keyword Spotting (KWS) – On-device keyword spotting engine using lightweight CRNN architecture, optimized for mobile devices.Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-06-14T19:32:39Z",
+            "owner": "Otosaku",
+            "repo": "OtosakuKWS-iOS",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streaming ASR – Real-time streaming speech recognition engine for iOS. Uses Fast Conformer + CTC, runs fully on device.Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-04T07:39:47Z",
+            "owner": "Otosaku",
+            "repo": "OtosakuStreamingASR-iOS",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Speech Processing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:45.231Z",
+    "original_repository": "likedan/Awesome-CoreML-Models",
+    "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
+    "enhanced_repository": "enhansome/enhansome-Awesome-CoreML-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome Models with stars"
+  }
+}
