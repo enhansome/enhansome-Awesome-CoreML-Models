@@ -423,20 +423,6 @@
         },
         {
           "node_type": "item",
-          "title": "iMessage Spam Detection - Detect whether a message is spam. Download",
-          "description": "Demo | Reference",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-06-29T04:28:46Z",
-            "owner": "gkswamy98",
-            "repo": "imessage-spam-detection",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "NamesDT - Gender Classification using DecisionTreeClassifier Download",
           "description": "Demo | Reference",
           "children": [],
@@ -447,6 +433,20 @@
             "owner": "cocoa-ai",
             "repo": "NamesCoreMLDemo",
             "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iMessage Spam Detection - Detect whether a message is spam. Download",
+          "description": "Demo | Reference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-06-29T04:28:46Z",
+            "owner": "gkswamy98",
+            "repo": "imessage-spam-detection",
+            "stars": 35
           }
         },
         {
@@ -564,7 +564,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:56:35.982Z",
+    "last_updated": "2026-08-17T07:13:28.198Z",
     "original_repository": "likedan/Awesome-CoreML-Models",
     "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
     "enhanced_repository": "enhansome/enhansome-Awesome-CoreML-Models",
