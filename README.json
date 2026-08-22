@@ -612,10 +612,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T05:54:38Z",
+            "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646
+            "stars": 77648
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T05:54:38Z",
+            "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646
+            "stars": 77648
           }
         },
         {
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:04:09.309Z",
+    "last_updated": "2026-08-22T06:56:17.910Z",
     "original_repository": "likedan/Awesome-CoreML-Models",
     "original_repository_id": 101052455,
     "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
