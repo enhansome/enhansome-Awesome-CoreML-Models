@@ -12,11 +12,11 @@ Since iOS 11, Apple released Core ML framework to help developers integrate mach
 
 We've put up the largest collection of machine learning models in Core ML format, to help  iOS, macOS, tvOS, and watchOS developers experiment with machine learning techniques.
 
-If you've converted a Core ML model, feel free to submit a [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare) ⭐ 7,043 | 🐛 15 | 🌐 Python | 📅 2025-06-17.
+If you've converted a Core ML model, feel free to submit a [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare) ⭐ 7,044 | 🐛 15 | 🌐 Python | 📅 2025-06-17.
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,382 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,506 | 🐛 106 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Awesome Models with stars
@@ -61,8 +61,8 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that process text data*
 
-* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 164,385 | 🐛 2,411 | 🌐 Python | 📅 2026-08-24
-* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 164,385 | 🐛 2,411 | 🌐 Python | 📅 2026-08-24
+* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 164,393 | 🐛 2,415 | 🌐 Python | 📅 2026-08-24
+* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 164,393 | 🐛 2,415 | 🌐 Python | 📅 2026-08-24
 * **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Demo](https://github.com/toddkramer/DocumentClassifier) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Reference](https://github.com/toddkramer/DocumentClassifier/) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20
 * **NamesDT** - Gender Classification using DecisionTreeClassifier [Download](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/NamesCoreMLDemo) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://nlpforhackers.io/)
@@ -107,13 +107,13 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 * [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - Models for TensorFlow.
 * [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21 - Another collection of TensorFlow Models.
-* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,561 | 🐛 1,542 | 🌐 C++ | 📅 2024-07-31 - Big list of models in Caffe format.
+* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,559 | 🐛 1,543 | 🌐 C++ | 📅 2024-07-31 - Big list of models in Caffe format.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
 
 * [Colorization](https://github.com/richzhang/colorization) ⭐ 3,461 | 🐛 59 | 🌐 Python | 📅 2023-11-27 Automatic colorization using deep neural networks.
-* [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) ⭐ 1,369 | 🐛 22 | 🌐 C++ | 📅 2021-09-27 Find semantically-meaningful dense correspondences between two input images.
+* [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) ⭐ 1,370 | 🐛 22 | 🌐 C++ | 📅 2021-09-27 Find semantically-meaningful dense correspondences between two input images.
 * [CTPN](https://github.com/tianzhi0549/CTPN) ⭐ 1,287 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2021-10-15 Detecting text in natural image.
 * [Illustration2Vec](https://github.com/rezoo/illustration2vec) ⭐ 677 | 🐛 22 | 🌐 Python | 📅 2019-01-18 Estimating a set of tags and extracting semantic feature vectors from given illustrations.
 * [Fashion Detection](https://github.com/liuziwei7/fashion-detection) ⭐ 494 | 🐛 5 | 🌐 MATLAB | 📅 2021-10-09 Cloth detection from images.
@@ -127,7 +127,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 # Contributing and License
 
-* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) ⭐ 7,043 | 🐛 15 | 🌐 Python | 📅 2025-06-17
+* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) ⭐ 7,044 | 🐛 15 | 🌐 Python | 📅 2025-06-17
 * Distributed under the MIT license. See LICENSE for more information.
 
 ***
