@@ -612,10 +612,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555
+            "stars": 34556
           }
         },
         {
@@ -833,9 +833,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:05:10.093Z",
-    "original_repository": "likedan/Awesome-CoreML-Models",
-    "original_repository_id": 101052455,
+    "last_updated": "2026-08-27T11:24:56.773Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 101052455,
+      "language": "Python",
+      "last_commit": "2025-06-17T05:43:09Z",
+      "owner": "likedan",
+      "repo": "Awesome-CoreML-Models",
+      "stars": 7044
+    },
     "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
     "enhanced_repository": "enhansome/enhansome-Awesome-CoreML-Models",
     "enhanced_repository_description": null,
