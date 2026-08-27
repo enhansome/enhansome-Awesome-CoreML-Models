@@ -615,7 +615,7 @@
             "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77654
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77654
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
+            "stars": 34557
           }
         },
         {
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:56.773Z",
+    "last_updated": "2026-08-27T17:35:41.306Z",
     "original_repository_info": {
       "archived": false,
       "id": 101052455,
@@ -841,7 +841,7 @@
       "last_commit": "2025-06-17T05:43:09Z",
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7044
+      "stars": 7045
     },
     "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
     "enhanced_repository": "enhansome/enhansome-Awesome-CoreML-Models",
