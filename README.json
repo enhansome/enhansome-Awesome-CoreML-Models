@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :dancer: Real-time single person pose estimation for Android and iOS.",
+            "homepage": null,
             "id": 129207952,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T22:29:10Z",
+            "open_issues": 90,
             "owner": "edvardHua",
             "repo": "PoseEstimationForMobile",
-            "stars": 1024
+            "stars": 1024,
+            "topics": [
+              "android",
+              "convolutional-neural-networks",
+              "cpm",
+              "deep-neural-networks",
+              "human-pose-estimation",
+              "ios",
+              "pose-estimation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.",
+            "homepage": null,
             "id": 94986293,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-11-19T20:19:55Z",
+            "open_issues": 27,
             "owner": "hollance",
             "repo": "YOLO-CoreML-MPSNNGraph",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "core-ml",
+              "deep-learning",
+              "ios",
+              "machine-learning",
+              "metal",
+              "mps",
+              "swift",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -42,12 +70,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The MobileNet neural network using Apple's new CoreML framework",
+            "homepage": null,
             "id": 93544971,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-09-22T16:38:15Z",
+            "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "core-ml",
+              "ios",
+              "machine-learning",
+              "mobilenet",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -58,12 +97,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The MobileNet neural network using Apple's new CoreML framework",
+            "homepage": null,
             "id": 93544971,
             "language": "Swift",
+            "license": null,
             "last_commit": "2018-09-22T16:38:15Z",
+            "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "core-ml",
+              "ios",
+              "machine-learning",
+              "mobilenet",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -74,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The example project of inferencing Semantic Segementation using Core ML",
+            "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
             "id": 197925144,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-03-27T11:51:25Z",
+            "open_issues": 4,
             "owner": "tucan9389",
             "repo": "SemanticSegmentation-CoreML",
-            "stars": 342
+            "stars": 342,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -90,12 +145,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👀 iOS11 demo application for age and gender classification of facial images.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 95821936,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-08T22:23:48Z",
+            "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "coreml",
+              "coreml-models",
+              "emotion-recognition",
+              "facial-recognition",
+              "gender-classification",
+              "ios",
+              "machine-learning",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -106,12 +177,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👀 iOS11 demo application for age and gender classification of facial images.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 95821936,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-08T22:23:48Z",
+            "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "coreml",
+              "coreml-models",
+              "emotion-recognition",
+              "facial-recognition",
+              "gender-classification",
+              "ios",
+              "machine-learning",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -122,12 +209,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👀 iOS11 demo application for age and gender classification of facial images.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 95821936,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-08T22:23:48Z",
+            "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "coreml",
+              "coreml-models",
+              "emotion-recognition",
+              "facial-recognition",
+              "gender-classification",
+              "ios",
+              "machine-learning",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -138,12 +241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Demo using Vision Framework building on Core ML Framework",
+            "homepage": "http://yulingtianxia.com/blog/2017/06/19/Core-ML-and-Vision-Framework-on-iOS-11/",
             "id": 93838263,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-08-09T15:07:27Z",
+            "open_issues": 1,
             "owner": "yulingtianxia",
             "repo": "Core-ML-Sample",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -154,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Car Recognition Framework for CoreML",
+            "homepage": null,
             "id": 101138985,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-05-22T06:36:55Z",
+            "open_issues": 4,
             "owner": "likedan",
             "repo": "Core-ML-Car-Recognition",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -170,12 +283,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A CoreML model which classifies images of food",
+            "homepage": null,
             "id": 96708613,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-02-15T17:12:28Z",
+            "open_issues": 2,
             "owner": "ph1ps",
             "repo": "Food101-CoreML",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "convolutional-neural-networks",
+              "coreml",
+              "coreml-framework",
+              "coreml-models",
+              "food-classification",
+              "machine-learning",
+              "machine-learning-models"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -186,12 +312,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The example of running Depth Prediction using Core ML",
+            "homepage": "https://github.com/motlabs/awesome-ml-demos-with-ios",
             "id": 197880919,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-06-15T14:32:24Z",
+            "open_issues": 1,
             "owner": "tucan9389",
             "repo": "DepthPrediction-CoreML",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "coreml",
+              "depth-prediction",
+              "fcrn-depthprediction",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -202,12 +338,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A CoreML models that detects nudity in a picture",
+            "homepage": null,
             "id": 105437555,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-02-15T17:44:51Z",
+            "open_issues": 0,
             "owner": "ph1ps",
             "repo": "Nudity-CoreML",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -218,12 +359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸 iOS11 demo application for flower classification.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 95823238,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-03-24T15:02:12Z",
+            "open_issues": 0,
             "owner": "cocoa-ai",
             "repo": "FlowersVisionDemo",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "coreml",
+              "flower-classification",
+              "ios",
+              "machine-learning",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -234,12 +388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 171720159,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-06-25T02:04:52Z",
+            "open_issues": 1,
             "owner": "tucan9389",
             "repo": "TextRecognition-MLKit",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -250,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 171705465,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-02-20T20:05:53Z",
+            "open_issues": 0,
             "owner": "tucan9389",
             "repo": "TextDetection-CoreML",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -266,12 +430,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Photo Assessment using Core ML and Metal.",
+            "homepage": "http://yulingtianxia.com/blog/2018/11/30/Photo-Assessment/",
             "id": 156862435,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-28T06:34:25Z",
+            "open_issues": 3,
             "owner": "yulingtianxia",
             "repo": "PhotoAssessment",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "assessment",
+              "coreml-model",
+              "face-detection",
+              "image-analysis",
+              "machine-learning",
+              "metal",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -282,12 +459,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Predict handwritten digits with CoreML",
+            "homepage": null,
             "id": 94742958,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-15T17:37:35Z",
+            "open_issues": 1,
             "owner": "ph1ps",
             "repo": "MNIST-CoreML",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "convolutional-neural-networks",
+              "coreml",
+              "coreml-framework",
+              "coreml-models",
+              "machine-learning",
+              "mnist",
+              "mnist-dataset"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -298,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "MXNet to Core ML - iOS sample app",
+            "homepage": null,
             "id": 102652582,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2017-09-08T22:01:08Z",
+            "open_issues": 0,
             "owner": "awslabs",
             "repo": "MXNet2CoreML_iOS_sample_app",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -314,12 +509,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖼 iOS11 demo application for image style classification.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 95824489,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-08T22:24:57Z",
+            "open_issues": 0,
             "owner": "cocoa-ai",
             "repo": "StylesVisionDemo",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "classification",
+              "coreml",
+              "ios",
+              "machine-learning",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -330,12 +538,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.",
+            "homepage": null,
             "id": 94381966,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-07-20T14:23:35Z",
+            "open_issues": 1,
             "owner": "ytakzk",
             "repo": "CoreML-samples",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "coreml",
+              "coreml-framework",
+              "deep-learning",
+              "ios",
+              "ios11",
+              "ml",
+              "resnet",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -346,12 +568,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of CoreML using a pre-trained VGG16 model",
+            "homepage": null,
             "id": 93573622,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-06-23T02:54:05Z",
+            "open_issues": 0,
             "owner": "alephao",
             "repo": "CoreMLExample",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "coreml",
+              "ios11",
+              "machine-learning",
+              "swift",
+              "xcode9"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -362,12 +595,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌅 iOS11 demo application for visual sentiment prediction.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 97398547,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-08T22:22:03Z",
+            "open_issues": 2,
             "owner": "cocoa-ai",
             "repo": "SentimentVisionDemo",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "coreml",
+              "coreml-models",
+              "ios",
+              "machine-learning",
+              "sentiment-analysis",
+              "swift",
+              "swift4",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -384,12 +631,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Core ML implementation of waifu2x",
+            "homepage": null,
             "id": 103552378,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-12-14T10:25:23Z",
+            "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "coreml",
+              "ios",
+              "nueral-networks",
+              "swift",
+              "video-filter",
+              "waifu2x"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -400,12 +659,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holistically-Nested Edge Detection (HED) using CoreML and Swift",
+            "homepage": null,
             "id": 96109962,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-07-03T12:58:38Z",
+            "open_issues": 0,
             "owner": "s1ddok",
             "repo": "HED-CoreML",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "caffe",
+              "coreml",
+              "hed",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -422,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!",
+            "homepage": null,
             "id": 194104216,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-24T19:48:07Z",
+            "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682
+            "stars": 1682,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -438,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!",
+            "homepage": null,
             "id": 194104216,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-24T19:48:07Z",
+            "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682
+            "stars": 1682,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -454,12 +733,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😃 iOS11 demo application for sentiment polarity analysis.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 97140906,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-10-07T18:53:06Z",
+            "open_issues": 2,
             "owner": "cocoa-ai",
             "repo": "SentimentCoreMLDemo",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "coreml",
+              "coreml-models",
+              "ios",
+              "machine-learning",
+              "nlp",
+              "sentiment-analysis",
+              "sentiment-polarity",
+              "swift",
+              "swift4"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -470,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift framework for document classification using a Core ML model.",
+            "homepage": null,
             "id": 115206130,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-04-20T18:09:39Z",
+            "open_issues": 1,
             "owner": "toddkramer",
             "repo": "DocumentClassifier",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -486,12 +785,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏷 iOS11 demo application for predicting gender from first names.",
+            "homepage": "https://github.com/cocoa-ai",
             "id": 96688883,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-10-07T18:58:07Z",
+            "open_issues": 1,
             "owner": "cocoa-ai",
             "repo": "NamesCoreMLDemo",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "classification",
+              "coreml",
+              "coreml-models",
+              "gender-classification",
+              "ios",
+              "machine-learning",
+              "nlp",
+              "swift",
+              "swift4"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -502,12 +816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://gokulswamy.me/imessage-spam-detection/",
             "id": 95343495,
             "language": "Swift",
+            "license": null,
             "last_commit": "2017-06-29T04:28:46Z",
+            "open_issues": 0,
             "owner": "gkswamy98",
             "repo": "imessage-spam-detection",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -518,12 +837,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Profiler Application using Sentiment Analysis",
+            "homepage": null,
             "id": 143626470,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-01-14T23:26:11Z",
+            "open_issues": 2,
             "owner": "novinfard",
             "repo": "profiler-sentiment-analysis",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "big-five-model",
+              "ios-app",
+              "personality-traits",
+              "sentiment-analysis",
+              "swift",
+              "user-interface"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -540,12 +871,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand-gesture recognition on iOS app using CoreML",
+            "homepage": null,
             "id": 104959663,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-02-26T17:56:03Z",
+            "open_issues": 1,
             "owner": "akimach",
             "repo": "GestureAI-CoreML-iOS",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "coreml",
+              "coremltools",
+              "deep-learning",
+              "deep-neural-networks",
+              "demo",
+              "ios",
+              "ios11",
+              "keras",
+              "machine-learning",
+              "rnn",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -556,12 +904,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using Machine Learning to predict the type of exercise from movement data",
+            "homepage": "https://monee-app.com",
             "id": 78937641,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-05-14T11:08:22Z",
+            "open_issues": 1,
             "owner": "Lausbert",
             "repo": "Exermote",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "convolutional-neural-networks",
+              "coreml",
+              "exercise",
+              "firebase",
+              "gan",
+              "generative-adversarial-network",
+              "googlecloudml",
+              "ios11",
+              "keras",
+              "lstm",
+              "sgan",
+              "swift",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -572,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code that has been used as an example or the topic of a blog post on agnosticdev.com",
+            "homepage": null,
             "id": 70437811,
             "language": "C",
+            "license": null,
             "last_commit": "2019-10-31T11:08:07Z",
+            "open_issues": 1,
             "owner": "agnosticdev",
             "repo": "Blog-Examples",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -588,12 +960,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoreML Project that predicts the most likely next chord based on the entered Chord Progression. This project is based on the following AI Model project and article https://medium.com/@huanlui/chordsuggester-i-3a1261d4ea9e",
+            "homepage": null,
             "id": 584210745,
             "language": "Swift",
+            "license": null,
             "last_commit": "2023-07-30T16:44:39Z",
+            "open_issues": 0,
             "owner": "carlosmbe",
             "repo": "Mac-CoreML-Chord-Suggester",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "coreml",
+              "macos-app",
+              "swift",
+              "swiftui",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -610,12 +993,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight on-device keyword spotting engine for iOS using CoreML and real-time audio streaming.",
+            "homepage": null,
             "id": 1000796551,
             "language": "Swift",
+            "license": null,
             "last_commit": "2025-06-14T19:32:39Z",
+            "open_issues": 0,
             "owner": "Otosaku",
             "repo": "OtosakuKWS-iOS",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "audio",
+              "coreml",
+              "ios",
+              "keyword-spotting",
+              "kws",
+              "machine-learning",
+              "on-device",
+              "real-time",
+              "signal-processing",
+              "speech-recognition",
+              "swift",
+              "wakeword"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -626,12 +1027,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OtosakuStreamingASR-iOS is a real-time speech recognition engine for iOS, built with Swift and Core ML. It uses a fast and lightweight streaming Conformer model optimized for on-device inference. Designed for developers who need efficient audio transcription on mobile.",
+            "homepage": null,
             "id": 1001951075,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-06-04T07:39:47Z",
+            "open_issues": 1,
             "owner": "Otosaku",
             "repo": "OtosakuStreamingASR-iOS",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "asr",
+              "conformer",
+              "coreml",
+              "ios",
+              "mlmodel",
+              "real-time",
+              "speech-processing",
+              "speech-recognition",
+              "speech-to-text",
+              "sst",
+              "streaming",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -648,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -664,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -680,12 +1109,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe: a fast open framework for deep learning.",
+            "homepage": "http://caffe.berkeleyvision.org/",
             "id": 12791642,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
+            "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
+            "stars": 34557,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -696,12 +1134,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic colorization using deep neural networks. \"Colorful Image Colorization.\" In ECCV, 2016.",
+            "homepage": "http://richzhang.github.io/colorization/",
             "id": 54758833,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-11-27T04:46:28Z",
+            "open_issues": 59,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3461
+            "stars": 3462,
+            "topics": [
+              "automatic-colorization",
+              "caffe",
+              "colorization",
+              "computer-vision",
+              "deep-learning",
+              "deep-learning-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -712,12 +1162,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of 'Visual Attribute Transfer through Deep Image Analogy'.",
+            "homepage": "https://arxiv.org/abs/1705.01088",
             "id": 92028576,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-09-27T04:52:35Z",
+            "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "deep-learning",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -728,12 +1186,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detecting Text in Natural Image with Connectionist Text Proposal Network (ECCV'16)",
+            "homepage": "http://textdet.com",
             "id": 72174194,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-15T05:17:41Z",
+            "open_issues": 70,
             "owner": "tianzhi0549",
             "repo": "CTPN",
-            "stars": 1287
+            "stars": 1287,
+            "topics": [
+              "ocr",
+              "text-detection"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -744,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.",
+            "homepage": null,
             "id": 43010401,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-18T10:08:11Z",
+            "open_issues": 22,
             "owner": "rezoo",
             "repo": "illustration2vec",
-            "stars": 677
+            "stars": 677,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -760,12 +1231,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fashion Detection in the Wild (Deep Clothes Detector)",
+            "homepage": "https://liuziwei7.github.io/projects/DeepFashion.html",
             "id": 90382036,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2021-10-09T02:24:08Z",
+            "open_issues": 5,
             "owner": "liuziwei7",
             "repo": "fashion-detection",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "clothes-detection",
+              "clothes-detector",
+              "computer-vision",
+              "deep-learning",
+              "vision-for-fashion"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -776,12 +1258,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks",
+            "homepage": null,
             "id": 81066920,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-01T02:43:53Z",
+            "open_issues": 52,
             "owner": "CongWeilin",
             "repo": "mtcnn-caffe",
-            "stars": 493
+            "stars": 493,
+            "topics": [
+              "caffe",
+              "mtcnn"
+            ]
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -792,12 +1282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shallow and Deep Convolutional Networks for Saliency Prediction",
+            "homepage": "http://imatge-upc.github.io/saliency-2016-cvpr/",
             "id": 37472290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-12-10T19:55:14Z",
+            "open_issues": 7,
             "owner": "imatge-upc",
             "repo": "saliency-2016-cvpr",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -808,12 +1303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79098753,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-06T14:23:59Z",
+            "open_issues": 9,
             "owner": "BestiVictory",
             "repo": "ILGnet",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -824,12 +1324,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "automatic spoken language identification",
+            "homepage": null,
             "id": 45174931,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-11-19T17:39:40Z",
+            "open_issues": 6,
             "owner": "twerkmeister",
             "repo": "iLID",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -840,12 +1345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 66685931,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-28T17:26:09Z",
+            "open_issues": 0,
             "owner": "scottworkman",
             "repo": "deephorizon",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -856,12 +1366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe model for face detection",
+            "homepage": null,
             "id": 42772252,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-10-13T16:20:44Z",
+            "open_issues": 2,
             "owner": "DolotovEvgeniy",
             "repo": "DeepPyramid",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         },
@@ -872,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNN, Caffe, LaMem,Azure",
+            "homepage": null,
             "id": 53181401,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2016-04-30T12:36:33Z",
+            "open_issues": 0,
             "owner": "MiyainNYC",
             "repo": "Visual-Memorability-through-Caffe",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
         }
@@ -886,15 +1406,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:36:33.184Z",
+    "last_updated": "2026-08-29T04:14:41.325Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Largest list of models for Core ML (for iOS 11+)",
+      "homepage": null,
       "id": 101052455,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2025-06-17T05:43:09Z",
+      "open_issues": 15,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7048
+      "stars": 7048,
+      "topics": [
+        "apple",
+        "awesome",
+        "awesome-list",
+        "caffe",
+        "caffemodel",
+        "core-ml",
+        "coreml",
+        "coreml-framework",
+        "coreml-model",
+        "coreml-models",
+        "coremltools",
+        "curated-list",
+        "download",
+        "ios",
+        "ios11",
+        "machine-learning",
+        "ml",
+        "model",
+        "models",
+        "tensorflow-models"
+      ]
     },
     "original_repository_sha": "f65751092d0ba1e3a8e83c8351f46bfd54606a91",
     "enhanced_repository": "enhansome/enhansome-Awesome-CoreML-Models",
