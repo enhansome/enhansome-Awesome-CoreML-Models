@@ -1036,7 +1036,7 @@
             "open_issues": 1,
             "owner": "Otosaku",
             "repo": "OtosakuStreamingASR-iOS",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "asr",
               "conformer",
@@ -1072,8 +1072,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:30:48Z",
-            "open_issues": 1272,
+            "last_commit": "2026-08-31T23:14:28Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77660,
@@ -1093,8 +1093,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:30:48Z",
-            "open_issues": 1272,
+            "last_commit": "2026-08-31T23:14:28Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77660,
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T13:36:55.010Z",
+    "last_updated": "2026-09-01T11:34:09.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 15,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7050,
+      "stars": 7051,
       "topics": [
         "apple",
         "awesome",
