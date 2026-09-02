@@ -1072,7 +1072,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T23:14:28Z",
+            "last_commit": "2026-09-02T01:25:26Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
@@ -1093,7 +1093,7 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T23:14:28Z",
+            "last_commit": "2026-09-02T01:25:26Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
@@ -1115,10 +1115,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
-            "open_issues": 1175,
+            "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555,
+            "stars": 34554,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:34:09.204Z",
+    "last_updated": "2026-09-02T11:11:29.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
