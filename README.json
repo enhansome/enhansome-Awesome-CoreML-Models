@@ -1072,11 +1072,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T01:25:26Z",
-            "open_issues": 1273,
+            "last_commit": "2026-09-02T18:30:36Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1093,11 +1093,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T01:25:26Z",
-            "open_issues": 1273,
+            "last_commit": "2026-09-02T18:30:36Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1115,10 +1115,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
-            "open_issues": 1176,
+            "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:11:29.844Z",
+    "last_updated": "2026-09-03T11:08:02.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1415,10 +1415,10 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2025-06-17T05:43:09Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7051,
+      "stars": 7052,
       "topics": [
         "apple",
         "awesome",
