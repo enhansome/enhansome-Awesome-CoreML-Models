@@ -1072,8 +1072,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:30:36Z",
-            "open_issues": 1272,
+            "last_commit": "2026-09-03T23:11:37Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77661,
@@ -1093,8 +1093,8 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:30:36Z",
-            "open_issues": 1272,
+            "last_commit": "2026-09-03T23:11:37Z",
+            "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77661,
@@ -1143,7 +1143,7 @@
             "open_issues": 59,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3462,
+            "stars": 3463,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:08:02.256Z",
+    "last_updated": "2026-09-04T11:11:18.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
