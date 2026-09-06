@@ -79,7 +79,7 @@
             "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 711,
+            "stars": 710,
             "topics": [
               "core-ml",
               "ios",
@@ -106,7 +106,7 @@
             "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 711,
+            "stars": 710,
             "topics": [
               "core-ml",
               "ios",
@@ -1076,7 +1076,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:29:49.843Z",
+    "last_updated": "2026-09-06T10:49:56.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7052,
+      "stars": 7053,
       "topics": [
         "apple",
         "awesome",
