@@ -1076,7 +1076,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77662,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:49:56.537Z",
+    "last_updated": "2026-09-07T12:21:44.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7053,
+      "stars": 7054,
       "topics": [
         "apple",
         "awesome",
