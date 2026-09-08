@@ -1073,10 +1073,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T00:14:58Z",
-            "open_issues": 1273,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1094,10 +1094,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T00:14:58Z",
-            "open_issues": 1273,
+            "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77662,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34550,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1195,7 +1195,7 @@
             "open_issues": 70,
             "owner": "tianzhi0549",
             "repo": "CTPN",
-            "stars": 1287,
+            "stars": 1286,
             "topics": [
               "ocr",
               "text-detection"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:21:44.591Z",
+    "last_updated": "2026-09-08T11:11:08.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7054,
+      "stars": 7055,
       "topics": [
         "apple",
         "awesome",
