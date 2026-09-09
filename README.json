@@ -1072,11 +1072,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77657,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1093,11 +1093,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77657,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1171,7 +1171,7 @@
             "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1370,
+            "stars": 1369,
             "topics": [
               "deep-learning",
               "style-transfer"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:11:08.814Z",
+    "last_updated": "2026-09-09T11:15:15.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
