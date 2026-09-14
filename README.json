@@ -1076,7 +1076,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34554,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1140,7 +1140,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2023-11-27T04:46:28Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
             "stars": 3463,
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T11:43:32.033Z",
+    "last_updated": "2026-09-14T12:37:03.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7056,
+      "stars": 7058,
       "topics": [
         "apple",
         "awesome",
