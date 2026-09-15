@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T12:37:03.941Z",
+    "last_updated": "2026-09-15T11:37:53.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7058,
+      "stars": 7059,
       "topics": [
         "apple",
         "awesome",
