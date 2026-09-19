@@ -154,7 +154,7 @@
             "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "coreml",
               "coreml-models",
@@ -186,7 +186,7 @@
             "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "coreml",
               "coreml-models",
@@ -218,7 +218,7 @@
             "open_issues": 3,
             "owner": "cocoa-ai",
             "repo": "FacesVisionDemo",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "coreml",
               "coreml-models",
@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "coreml",
               "ios",
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:07:02.787Z",
+    "last_updated": "2026-09-19T10:51:32.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7058,
+      "stars": 7059,
       "topics": [
         "apple",
         "awesome",
