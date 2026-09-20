@@ -1076,7 +1076,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1240,7 +1240,7 @@
             "open_issues": 5,
             "owner": "liuziwei7",
             "repo": "fashion-detection",
-            "stars": 494,
+            "stars": 493,
             "topics": [
               "clothes-detection",
               "clothes-detector",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T10:51:32.198Z",
+    "last_updated": "2026-09-20T11:15:39.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
