@@ -1076,7 +1076,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77651,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77651,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1171,7 +1171,7 @@
             "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "deep-learning",
               "style-transfer"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:38:26.708Z",
+    "last_updated": "2026-09-25T11:44:32.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
