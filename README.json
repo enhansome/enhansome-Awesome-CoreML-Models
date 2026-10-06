@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "coreml",
               "ios",
@@ -1073,10 +1073,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1094,10 +1094,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:27:30.268Z",
+    "last_updated": "2026-10-06T10:27:56.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
