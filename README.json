@@ -250,7 +250,7 @@
             "open_issues": 1,
             "owner": "yulingtianxia",
             "repo": "Core-ML-Sample",
-            "stars": 220,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77655,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77655,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1171,7 +1171,7 @@
             "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "deep-learning",
               "style-transfer"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:14:02.019Z",
+    "last_updated": "2026-10-07T13:13:38.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7058,
+      "stars": 7057,
       "topics": [
         "apple",
         "awesome",
