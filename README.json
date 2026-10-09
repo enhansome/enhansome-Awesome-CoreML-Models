@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "edvardHua",
             "repo": "PoseEstimationForMobile",
-            "stars": 1024,
+            "stars": 1025,
             "topics": [
               "android",
               "convolutional-neural-networks",
@@ -1073,10 +1073,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1094,10 +1094,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34549,
+            "stars": 34550,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:20:13.176Z",
+    "last_updated": "2026-10-09T13:08:57.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
