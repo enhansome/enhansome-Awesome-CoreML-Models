@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "edvardHua",
             "repo": "PoseEstimationForMobile",
-            "stars": 1025,
+            "stars": 1024,
             "topics": [
               "android",
               "convolutional-neural-networks",
@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 597,
+            "stars": 596,
             "topics": [
               "coreml",
               "ios",
@@ -1076,7 +1076,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77646,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1143,7 +1143,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3463,
+            "stars": 3464,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:00:01.535Z",
+    "last_updated": "2026-10-20T11:27:24.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 17,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7061,
+      "stars": 7060,
       "topics": [
         "apple",
         "awesome",
