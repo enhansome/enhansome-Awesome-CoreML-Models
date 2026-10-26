@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:16:55.365Z",
+    "last_updated": "2026-10-26T12:50:20.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 17,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7065,
+      "stars": 7066,
       "topics": [
         "apple",
         "awesome",
