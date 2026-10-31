@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "coreml",
               "ios",
@@ -700,7 +700,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1681,
+            "stars": 1682,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -721,7 +721,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1681,
+            "stars": 1682,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77642,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77642,
+            "stars": 77641,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1171,7 +1171,7 @@
             "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "deep-learning",
               "style-transfer"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T12:44:08.943Z",
+    "last_updated": "2026-10-31T12:15:58.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1415,10 +1415,10 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2025-06-17T05:43:09Z",
-      "open_issues": 18,
+      "open_issues": 17,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7066,
+      "stars": 7067,
       "topics": [
         "apple",
         "awesome",

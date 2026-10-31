@@ -16,7 +16,7 @@ If you've converted a Core ML model, feel free to submit a [pull request](https:
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,163 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,756 | 🐛 105 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Awesome Models with stars
@@ -29,7 +29,7 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) ⭐ 942 | 🐛 27 | 🌐 Swift | 📅 2019-11-19 | [Demo](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) ⭐ 942 | 🐛 27 | 🌐 Swift | 📅 2019-11-19 | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
 * **MobileNet** - Detects the dominant objects present in an image. [Download](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) ⭐ 709 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Demo](https://github.com/hollance/MobileNet-CoreML) ⭐ 709 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Reference](https://arxiv.org/abs/1704.04861)
 * **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) ⭐ 709 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Demo](https://github.com/chenyi1989/CoreMLDemo) ⭐ 34 | 🐛 0 | 🌐 Objective-C | 📅 2017-06-12 | [Reference](http://places.csail.mit.edu/index.html)
-* **ImageSegmentation** - Segment the pixels of a camera frame or image into a predefined set of classes. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) ⭐ 342 | 🐛 4 | 🌐 Swift | 📅 2021-03-27 | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,642 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30
+* **ImageSegmentation** - Segment the pixels of a camera frame or image into a predefined set of classes. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) ⭐ 342 | 🐛 4 | 🌐 Swift | 📅 2021-03-27 | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,641 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30
 * **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 324 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 324 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 324 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
@@ -54,15 +54,15 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that transform images.*
 
-* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 595 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 595 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
+* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 596 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 596 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
 * **HED** - Detect nested edges from a color image. [Download](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) ⭐ 112 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Demo](https://github.com/s1ddok/HED-CoreML) ⭐ 112 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
 
 ## Text - Metadata/Text
 
 *Models that process text data*
 
-* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 168,348 | 🐛 1,030 | 🌐 Python | 📅 2026-10-30
-* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 168,348 | 🐛 1,030 | 🌐 Python | 📅 2026-10-30
+* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 168,387 | 🐛 1,031 | 🌐 Python | 📅 2026-10-31
+* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 168,387 | 🐛 1,031 | 🌐 Python | 📅 2026-10-31
 * **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Demo](https://github.com/toddkramer/DocumentClassifier) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Reference](https://github.com/toddkramer/DocumentClassifier/) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20
 * **NamesDT** - Gender Classification using DecisionTreeClassifier [Download](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/NamesCoreMLDemo) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://nlpforhackers.io/)
@@ -105,15 +105,15 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Collections of machine learning models that could be converted to Core ML*
 
-* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,642 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - Models for TensorFlow.
-* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) ⭐ 77,642 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - Another collection of TensorFlow Models.
-* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,552 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - Big list of models in Caffe format.
+* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,641 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - Models for TensorFlow.
+* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) ⭐ 77,641 | 🐛 1,276 | 🌐 Python | 📅 2026-10-30 - Another collection of TensorFlow Models.
+* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,553 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - Big list of models in Caffe format.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
 
 * [Colorization](https://github.com/richzhang/colorization) ⭐ 3,465 | 🐛 60 | 🌐 Python | 📅 2023-11-27 Automatic colorization using deep neural networks.
-* [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) ⭐ 1,367 | 🐛 22 | 🌐 C++ | 📅 2021-09-27 Find semantically-meaningful dense correspondences between two input images.
+* [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) ⭐ 1,368 | 🐛 22 | 🌐 C++ | 📅 2021-09-27 Find semantically-meaningful dense correspondences between two input images.
 * [CTPN](https://github.com/tianzhi0549/CTPN) ⭐ 1,287 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2021-10-15 Detecting text in natural image.
 * [Illustration2Vec](https://github.com/rezoo/illustration2vec) ⭐ 678 | 🐛 22 | 🌐 Python | 📅 2019-01-18 Estimating a set of tags and extracting semantic feature vectors from given illustrations.
 * [Fashion Detection](https://github.com/liuziwei7/fashion-detection) ⭐ 496 | 🐛 5 | 🌐 MATLAB | 📅 2021-10-09 Cloth detection from images.
@@ -132,4 +132,4 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
