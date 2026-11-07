@@ -79,7 +79,7 @@
             "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "core-ml",
               "ios",
@@ -106,7 +106,7 @@
             "open_issues": 5,
             "owner": "hollance",
             "repo": "MobileNet-CoreML",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "core-ml",
               "ios",
@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 596,
+            "stars": 594,
             "topics": [
               "coreml",
               "ios",
@@ -700,7 +700,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -721,7 +721,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77633,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77633,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:10:16.658Z",
+    "last_updated": "2026-11-07T12:52:44.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7071,
+      "stars": 7070,
       "topics": [
         "apple",
         "awesome",
