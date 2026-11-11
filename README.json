@@ -1076,7 +1076,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1143,7 +1143,7 @@
             "open_issues": 60,
             "owner": "richzhang",
             "repo": "colorization",
-            "stars": 3472,
+            "stars": 3474,
             "topics": [
               "automatic-colorization",
               "caffe",
@@ -1267,7 +1267,7 @@
             "open_issues": 52,
             "owner": "CongWeilin",
             "repo": "mtcnn-caffe",
-            "stars": 493,
+            "stars": 492,
             "topics": [
               "caffe",
               "mtcnn"
@@ -1291,7 +1291,7 @@
             "open_issues": 7,
             "owner": "imatge-upc",
             "repo": "saliency-2016-cvpr",
-            "stars": 189,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:46:20.225Z",
+    "last_updated": "2026-11-11T14:08:07.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7071,
+      "stars": 7073,
       "topics": [
         "apple",
         "awesome",
