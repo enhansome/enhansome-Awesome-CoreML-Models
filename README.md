@@ -16,7 +16,7 @@ If you've converted a Core ML model, feel free to submit a [pull request](https:
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,852 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,347 | 🐛 104 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Awesome Models with stars
@@ -54,15 +54,15 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that transform images.*
 
-* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 593 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 593 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
+* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 596 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 596 | 🐛 16 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
 * **HED** - Detect nested edges from a color image. [Download](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) ⭐ 112 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Demo](https://github.com/s1ddok/HED-CoreML) ⭐ 112 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
 
 ## Text - Metadata/Text
 
 *Models that process text data*
 
-* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 169,215 | 🐛 1,105 | 🌐 Python | 📅 2026-11-18
-* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 169,215 | 🐛 1,105 | 🌐 Python | 📅 2026-11-18
+* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 169,262 | 🐛 1,098 | 🌐 Python | 📅 2026-11-19
+* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 169,262 | 🐛 1,098 | 🌐 Python | 📅 2026-11-19
 * **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) ⭐ 121 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Demo](https://github.com/toddkramer/DocumentClassifier) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Reference](https://github.com/toddkramer/DocumentClassifier/) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2019-04-20
 * **NamesDT** - Gender Classification using DecisionTreeClassifier [Download](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/NamesCoreMLDemo) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://nlpforhackers.io/)
@@ -132,4 +132,4 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
