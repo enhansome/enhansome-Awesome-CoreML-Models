@@ -19,7 +19,7 @@
             "open_issues": 90,
             "owner": "edvardHua",
             "repo": "PoseEstimationForMobile",
-            "stars": 1025,
+            "stars": 1024,
             "topics": [
               "android",
               "convolutional-neural-networks",
@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 596,
+            "stars": 595,
             "topics": [
               "coreml",
               "ios",
@@ -700,7 +700,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -721,7 +721,7 @@
             "open_issues": 24,
             "owner": "huggingface",
             "repo": "swift-coreml-transformers",
-            "stars": 1682,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77630,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77630,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:33.184Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34555,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -1171,7 +1171,7 @@
             "open_issues": 22,
             "owner": "msracver",
             "repo": "Deep-Image-Analogy",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "deep-learning",
               "style-transfer"
@@ -1195,7 +1195,7 @@
             "open_issues": 70,
             "owner": "tianzhi0549",
             "repo": "CTPN",
-            "stars": 1287,
+            "stars": 1286,
             "topics": [
               "ocr",
               "text-detection"
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:39:33.782Z",
+    "last_updated": "2026-11-20T15:20:30.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7079,
+      "stars": 7077,
       "topics": [
         "apple",
         "awesome",
