@@ -640,7 +640,7 @@
             "open_issues": 16,
             "owner": "imxieyi",
             "repo": "waifu2x-ios",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "coreml",
               "ios",
@@ -1406,7 +1406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:33:14.938Z",
+    "last_updated": "2026-11-22T14:28:29.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Largest list of models for Core ML (for iOS 11+)",
@@ -1418,7 +1418,7 @@
       "open_issues": 16,
       "owner": "likedan",
       "repo": "Awesome-CoreML-Models",
-      "stars": 7078,
+      "stars": 7079,
       "topics": [
         "apple",
         "awesome",
